@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vatanozcelik 
-- 👀 I’m interested in java, python, javascript, spring boot, sql
-- 🌱 I’m currently learning javascript and spring boot framework
+- 👀 I’m interested in c, c#, java, python,asp.net core, javascript, spring boot, sql
+- 🌱 I’m currently learning and biulding web app with help of asp.net core via c# language and spring boot of java framework.
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me www.github.com/vatanozcelik
 
